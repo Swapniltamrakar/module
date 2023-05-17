@@ -1,0 +1,11 @@
+Business Entities:
+
+User
+
+Staff
+
+Organisation
+
+
+Business Operations:
+

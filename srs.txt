@@ -1,0 +1,19 @@
+Functional Requirements :
+
+New anonymous user can view and search for job using a search bar , if he/she wants to apply for the selected
+job he/she needs to signup before doing so. user must get a prompt stating "User needs to sign up for applying 
+for any job". User can sign up on app using required credentials. credentials must be varified automatically 
+and if they are correct user must be registerd else a prompt must be shown to user that "Invalid user credentials".
+
+A register user can search and apply for multiple jobs he/she is intrested in. User gets option to uploade additional documents 
+which might be required during hiring process. User must also get option to revoke his/her submission
+for any job.
+
+Interested organisations are provided with option to register themself by providing required credentials
+for validation of organisation. Organisation details are varified by staff members and their access can be revoked any time if any fault is found
+inside their submitted documents. Organisations are provided with every user detail who have submitted their interest
+for joinig their organisation including their cvs. An option is provided to organisations to host a meeting 
+with interested users to conduct hiring processes . If organisation selects any user they need to
+uploade user details again on website. Hired user must be given an option to varify if he/she is ready
+to join that organisation , if interested their data must be updated and their application to any other orgs must 
+be revoked.  
